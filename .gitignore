@@ -1,0 +1,8 @@
+pgdata/*
+!pgdata/.gitkeep
+
+redisdata/*
+!redisdata/.gitkeep
+
+misc
+
